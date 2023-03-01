@@ -32,7 +32,6 @@ export const query = graphql`
           date(formatString: "MMMM D, YYYY")
           title
           slug
-          hero_image
         }
         id
         excerpt
